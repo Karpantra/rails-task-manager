@@ -5,3 +5,6 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+Task.create(name: "controller", detail: "générer les méthodes")
+Task.create(name: "views", detail: "générer le html")
+Task.create(name: "links", detail: "générer les liens")
